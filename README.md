@@ -20,8 +20,6 @@ Tetris is a tile-matching puzzle video game originally designed and programmed b
 * Simple Wall Kick implementation for rotations near edges.
 * Pseudo-3D block styling for a retro look.
 * Pause functionality (P key).
-* Main menu and Game Over screen.
-* Exit game/menu via ESC key.
 
 ## Requirements
 
