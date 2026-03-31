@@ -47,7 +47,6 @@ Tetris is a tile-matching puzzle video game originally designed and programmed b
 2.  Run the game script using Python:
    
     ```bash
-    cd Tetris2
     python tetris.py
     ```
 
